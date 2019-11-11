@@ -1,5 +1,5 @@
 body {
-    background: darksalmon;
+    background: rgb(245, 224, 217);
 }
 
 
@@ -21,4 +21,17 @@ body {
     margin: 10px;
     border: 3px salmon solid;
     background-color: white;
+}
+
+.hold {
+    border: solid #ccc 4px;
+}
+
+.hovered {
+    background-attachment: #f4f4f4;
+    border-style: dashed;
+}
+
+.invisible {
+    display: none;
 }
